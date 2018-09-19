@@ -4,4 +4,5 @@ u1 add wwl
 u1 add lsf
 u2 add wwl
 u1 add 老妈
+u2 add 老妈
 
